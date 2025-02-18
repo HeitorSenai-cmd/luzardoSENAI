@@ -5,7 +5,7 @@
 Me chamo Luzardo Lustosa,  sou natural do Rio Piaui. Concluí meu curso técnico em informática 2009. Concluí Análise e Desenvolvimento de Sistemas em 2014. 
 
 <p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
+    <a href="https://www.youtube.com/@luzardoSENAI?sub_confirmation=1">
         <img 
             alt="youtube subscribers" 
             title="Inscreva-se no meu canal" 
