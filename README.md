@@ -1,8 +1,8 @@
-# 🧑🏻‍💻Luzardo Lustosa
+# 🧑🏻‍💻Francisco heitor
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Luzardo Lustosa,  sou natural do Piaui. Concluí meu curso técnico em informática 2009. Concluí Análise e Desenvolvimento de Sistemas em 2014. 
+Eu me chamo Francisco Heitor e estou no curso imformatica para internet
 
 <p align="left">
     <a href="https://www.youtube.com/@luzardoSENAI?sub_confirmation=1">
@@ -163,7 +163,7 @@ Me chamo Luzardo Lustosa,  sou natural do Piaui. Concluí meu curso técnico em 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=luzardoSENAI&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=HeitorSENAI-cmd&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
